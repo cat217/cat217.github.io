@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cat217.github.io</id>
     <title>Gridea</title>
-    <updated>2021-03-13T03:21:53.766Z</updated>
+    <updated>2021-03-13T03:25:11.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cat217.github.io"/>
     <link rel="self" href="https://cat217.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://cat217.github.io/images/avatar.png</logo>
     <icon>https://cat217.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[亚马逊股东信读书笔记]]></title>
+        <id>https://cat217.github.io/post/ya-ma-xun-gu-dong-xin-du-shu-bi-ji/</id>
+        <link href="https://cat217.github.io/post/ya-ma-xun-gu-dong-xin-du-shu-bi-ji/">
+        </link>
+        <updated>2021-03-13T03:24:15.000Z</updated>
+        <summary type="html"><![CDATA[<p>笔记笔记</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>笔记笔记</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://cat217.github.io/post/hello-gridea/</id>
