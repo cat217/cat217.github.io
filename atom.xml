@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cat217.github.io</id>
+    <title>Coding</title>
+    <updated>2022-09-03T05:21:01.785Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cat217.github.io"/>
+    <link rel="self" href="https://cat217.github.io/atom.xml"/>
+    <subtitle>Coding</subtitle>
+    <logo>https://cat217.github.io/images/avatar.png</logo>
+    <icon>https://cat217.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Coding</rights>
+</feed>
